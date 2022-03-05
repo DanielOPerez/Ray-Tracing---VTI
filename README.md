@@ -1,1 +1,1 @@
-
+This repository contains a Ray Tracing code for layered media with VTI anisotropy. The code is written in Fortran and Python, beeing the Python part a wrap of the Fortran code, which performs the heavy dutty. 
