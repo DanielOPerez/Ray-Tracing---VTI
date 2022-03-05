@@ -5,7 +5,7 @@ from sys import argv
 from ray_mod import straight_ray, refracted_ray
 
 #=============================================================================
-# Datos de entrada
+# In data
 #=============================================================================
 z=np.loadtxt(argv[1], usecols=[0])
 vp0=np.loadtxt(argv[1], usecols=[1])
